@@ -1,0 +1,31 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+# My GPG key: 8DC8D309 - A full copy of it can also be found in src/ckb/msckey.gpg
+# This document is signed to prevent tampering. Signature verification is enabled only when GnuPG is available.
+# Firmware versions listed may not necessarily reflect the latest on Corsair's site; new versions will not be added until ckb has been tested with them.
+# ckb does NOT read this file when flashing firmware manually. It will allow you to load any valid FW blob (at your own risk).
+
+!BEGIN FW ENTRIES
+
+# Vendor  Model       FW   URL                                                 Min.ckb File Name              SHA256
+  Corsair K70RGB      2.04 http://www3.corsair.com/software/HID/K70RGB.zip     0.2.6   K70RGB_APP_V204.bin    013f3013ea84b8647d8c471b5c77bf0658de93b352cfbdd992904776e818aaad
+  Corsair K95RGB      2.04 http://www3.corsair.com/software/HID/K95RGB.zip     0.2.6   K95RGB_APP_V204.bin    6b820cd138c5ba1b269420813a379179a97a3f21a3feb9be11cbe409d8fe600f
+  Corsair STRAFE      2.04 http://www3.corsair.com/software/HID/STRAFE.zip     0.2.6   STRAFE_APP_V204.bin    51156ae7aa5b04405668582496cf28bbfb2e492accf93c65c3072aca9ef7ed65
+  Corsair STRAFERGB   2.04 http://www3.corsair.com/software/HID/STRAFERGB.zip  0.2.6   STRAFERGB_APP_V204.bin bf14b420c521e28faf5fea6b406b2ad5ec10ca9e2ddfac69c448f01f615aa74c
+  Corsair M65RGB      2.02 http://www3.corsair.com/software/HID/M65RGB.zip     0.2.5   M65RGB_App_v202.bin    0b6080b98d9199fd23837b7927e7868420f458f2f24ac545f33e34f79c317a79
+  Corsair SCIMITARRGB 2.03 http://www3.corsair.com/software/HID/Scimitar.zip   0.2.5   Scimitar_App_v203.bin  59194c3ae8a6ae0a801f7b6cf528ad292ae996923699cf063c7deed38fb326aa
+
+!END FW ENTRIES
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCAAGBQJXXiTGAAoJEBXtkzSNyNMJOnIIAJ5F9nM/SC/T4Ykj9a6MdCUo
+oen73KK8Jb1MWVfl0BW6pXBx5Ww+nbhyXRQwW1vyAAXRd3hxZya9+WOSxPHy5cck
+nTjN37sbR4Uu1SQ9VN6oMaLo7N3+wN5/NyjtoAUkP0us5Edk46bBQ/P/2dzutDvk
+EtEQa84q1hqHNgUDYxPkdfd17J2U48bSQJHCoyr7bDJC5u2Gq3ykbi65RiOTjGw+
+QHbhUu2UgvOaMRtGn1p2hqRJi+K6h6aDhuOipwnzmmFSqxdaZB83jSnfJtdbnmKJ
+FYGQvG/K/lybTdF4kmXU8z0e3N14bBhMRDxyaCvRv75Skcwyv3Bkt7LazaDeS80=
+=LX5l
+-----END PGP SIGNATURE-----
