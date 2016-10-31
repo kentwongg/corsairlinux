@@ -1,11 +1,11 @@
 corsairlinux: RGB Driver for Linux and OS X
 ==================================
 
-
+Notice: this was originally a project helmed by ccMSC. Unfortunately the project has been abandoned and with no word by ccMSC, the driver no longer works with the newest firmware on many corsair products. With this, I hope to pick it up and get it going again...at least bare functionality. This is a WIP.
 
 ![Screenshot](https://i.imgur.com/zMK9jOP.png)
 
-**Disclaimer:** ckb is not an official Corsair product. It is licensed under the GNU General Public License (version 2) in the hope that it will be useful, but with NO WARRANTY of any kind.
+**Disclaimer:** corsairlinux is not an official Corsair product. It is licensed under the GNU General Public License (version 2) in the hope that it will be useful, but with NO WARRANTY of any kind.
 
 Contents
 --------
